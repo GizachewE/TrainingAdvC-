@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1D32C2-6F3C-4878-9975-ED909068ABF3}|..\\EventDelegate\\EventDelegate.csproj|c:\\users\\gizachew.eshete\\desktop\\advanced c#\\trainingadvc-\\eventdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670FDA1A-210A-42D8-80FE-4C2DF811D695}|..\\DetailGenerics\\DetailGenerics.csproj|c:\\users\\gizachew.eshete\\desktop\\advanced c#\\trainingadvc-\\detailgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0E37A7-9E1F-4974-8CAA-0E7A166F9EFA}|..\\Events\\Events.csproj|c:\\users\\gizachew.eshete\\desktop\\advanced c#\\trainingadvc-\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07678894-8FA7-4EB5-AF6B-4ABD6B20340F}|Delegate\\Delegate.csproj|c:\\users\\gizachew.eshete\\desktop\\advanced c#\\trainingadvc-\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07678894-8FA7-4EB5-AF6B-4ABD6B20340F}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B9F5EF-EED3-4152-9CA0-15FEF7D50B60}|AsyncAPI\\AsyncAPI.csproj|c:\\users\\gizachew.eshete\\desktop\\advanced c#\\trainingadvc-\\delegate\\asyncapi\\controllers\\hughquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B9F5EF-EED3-4152-9CA0-15FEF7D50B60}|AsyncAPI\\AsyncAPI.csproj|solutionrelative:asyncapi\\controllers\\hughquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B9F5EF-EED3-4152-9CA0-15FEF7D50B60}|AsyncAPI\\AsyncAPI.csproj|c:\\users\\gizachew.eshete\\desktop\\advanced c#\\trainingadvc-\\delegate\\asyncapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B9F5EF-EED3-4152-9CA0-15FEF7D50B60}|AsyncAPI\\AsyncAPI.csproj|solutionrelative:asyncapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsyncUI\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsyncUI\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\DetailGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DetailGenerics\\Program.cs",
+              "ToolTip": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\DetailGenerics\\Program.cs",
+              "RelativeToolTip": "..\\DetailGenerics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:49:52.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:49:52.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Events\\Program.cs",
+              "ToolTip": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Events\\Program.cs",
+              "RelativeToolTip": "..\\Events\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:49:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\EventDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EventDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\EventDelegate\\Program.cs",
+              "RelativeToolTip": "..\\EventDelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:49:52.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AsyncUI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "AsyncUI\\MainPage.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwvzwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:49:52.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AsyncAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AsyncAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:49:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HughQueryController.cs",
+              "DocumentMoniker": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\HughQueryController.cs",
+              "RelativeDocumentMoniker": "AsyncAPI\\Controllers\\HughQueryController.cs",
+              "ToolTip": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\HughQueryController.cs",
+              "RelativeToolTip": "AsyncAPI\\Controllers\\HughQueryController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:49:52.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AsyncUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\gizachew.eshete\\Desktop\\Advanced C#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml",
+              "RelativeToolTip": "AsyncUI\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T10:49:52.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
